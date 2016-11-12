@@ -1,0 +1,27 @@
+[
+["Economic Life", 
+[
+"Economic life is the expected period of time during which an asset is useful to the average owner. The economic life of an asset could be different than its actual physical life.",
+"Economic life is the time period over which the company expects that the asset will be productive. Past its useful life, it is no longer cost-effective to continue operating the asset, so it is expected that the company will dispose of it. Depreciation is recognized over the useful life of an asset."
+]
+],
+
+["Depreciation", 
+["Depreciation is the systematic reduction in the recorded cost of a fixed asset. Examples of fixed assets that can be depreciated are buildings, furniture, leasehold improvements, and office equipment. The only exception is land, which is not depreciated (since land is not depleted over time, with the exception of natural resources). The reason for using depreciation is to match a portion of the cost of a fixed asset to the revenue that it generates; this is mandated under the matching principle, where you record revenues with their associated expenses in the same reporting period in order to give a complete picture of the results of a revenue-generating transaction. The net effect of depreciation is a gradual decline in the reported carrying amount of fixed assets on the balance sheet."]
+],
+
+["Salvage Value", 
+["When a company/individual eventually disposes of an asset, it may be able to sell it for some reduced amount, which is the salvage value. Depreciation is calculated based on the asset cost, less any estimated salvage value. If salvage value is expected to be quite small, then it is generally ignored for the purpose of calculating depreciation."]
+],
+
+["Depreciation Method", 
+["You can calculate depreciation expense using an accelerated depreciation method, or evenly over the useful life of the asset. The advantage of using an accelerated method is that you can recognize more depreciation early in the life of a fixed asset, which defers some income tax expense recognition into a later period. The advantage of using a steady depreciation rate is the ease of calculation. Examples of accelerated depreciation methods are the declining balance and sum-of-the-years digits methods. The primary method for steady depreciation is the straight-line method. The units of production method is also available if you want to depreciate an asset based on its actual usage level, as is commonly done with airplane engines that have specific life spans tied to their usage levels"]
+],
+
+["Book Value",
+["The book value of an asset is the asset's cost minus the asset's accumulated depreciation. For example, in the general ledger account, Automobile, is the automobile's cost of $22,000. In the contra asset account, Accumulated Depreciation on Automobile, is a credit balance of $16,000. The net of those two amounts ($22,000 minus $16,000) is the book value or the carrying value of the automobile. In this example the $6,000 is the amount being reported on the company's books.",
+"You should realize that this book value is not an indication of the market value of the automobile. The market value could be more than $6,000 or it could be less than $6,000. Also don't confuse the accounting book value with the blue book or black book amounts that are published and show values for automobiles.",
+"The term book value is also used when referring to a company's liability, such as Bonds Payable. The book value of bonds would be the maturity value (or par value) in the general ledger account, Bonds Payable, minus any unamortized amount in the account, Discount on Bonds Payable, and minus any unamortized amount in the asset account Bond Issue Costs. If the bonds were issued at more than their face (or par or maturity) amount, the book value would be the balance in Bonds Payable plus the balance in Premium on Bonds Payable and minus any amount in the asset account, Bond Issue Costs.",
+"Lastly, book value is used when referring to the total amount of stockholders' equity appearing on a corporation's balance sheet. Again, this book value is not an indication of the market value of the corporation. It simply indicates the amounts appearing on the books for the assets less the amounts appearing for the liabilities. A corporation can be far more valuable than the amount of its book value."]
+]
+]

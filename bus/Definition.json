@@ -1,5 +1,22 @@
 [
-["Useful Life", 
+
+["Fixed Assets",
+[
+"Fixed assets as an accounting term refers to the property that is used by a company for producing of goods and services. They include machinery and tools, buildings, vehicles, and land, of course. Fixed assets, as a rule, have a useful time or useful life in excess of one year. Useful time implies this period of the asset’s exploitation during which it is in good technical condition, is able to produce reliably, is cost effective (i.e. a tool that consumes reasonable cash for regular maintenance only, and not for major or overhaul repairs).for instance, the useful time of PC-s can be, roughly, three years; that of automobiles and trucks – about 5 years, depending on their exploitation or use, of course.",
+"Fixed assets are usually divided into two groups: tangible fixed assets and intangible fixed assets. Tangible fixed assets have physical existence (like: buildings, machinery). Intangible fixed assets have non-physical existence. They include: copyrights, computer programs, franchises, goodwill, import permits, licenses, organization costs, patents, trademarks, to name but a few. On the balance sheet, the fixed assets are usually carried at their acquisition cost. Acquisition cost includes the price and all the fees to be paid in order to obtain the asset. For example, when acquiring some power tool, the owner pays for it the purchase price, the expense for delivery of the tool to the owner’s facility. Very often the bigger equipment / tools also require to be assembled, installed, or just tuned in. The moneys paid in by the equipment owner for these extras, accumulate into what is the acquisition cost, i.e. the purchase price + spending to be done to set the asset up for expected operation. Over the useful time the asset wears down physically (physical wear), and also due to obsolescence, i.e. appearing of tools and technologies that are more contemporary, of newer generations, more state-of-the-art. As a consequence of obsolescence, the asset may be physically brand new, without the slightest wear or tear, yet unwanted by buyers, due to being obsolete, i.e. outdated or superseded by more efficient models. Hence, beginning from the first day of utilizing the asset, the owners are compelled to looking ahead of replacing the asset, once its useful time will be over. They also need funds for that. Therefore, accountants in companies depreciate the asset’s value annually. Depreciate means showing in lower cash value. This is called depreciation (of fixed assets). Or: fixed assets are depreciated."
+]
+],
+
+["Depreciable Asset",
+[
+"The land asset is not depreciated, because it is considered to have an infinite useful life. This makes land unique among all asset types; it is the only one for which depreciation is prohibited.",
+"Nearly all fixed assets have a useful life, after which they no longer contribute to the operations of a company or they stop generating revenue. During this useful life, they are depreciated, which reduces their cost to what they are supposed to be worth at the end of their useful lives (which is known as salvage value). Land, however, has no definitive useful life, so there is no way to depreciate it. Instead, in the absence of natural resources that are to be extracted (see below), land is considered to have an unlimited life span. Further, due to the scarcity of land, its value tends to increase over time, as opposed to the decline in value of most other types of fixed assets.",
+"When an entity purchases land that has a building on it, the cost must be allocated between the land and the building; the result will be depreciation of the building, but not the land. A good way to derive this allocation is to use a property tax assessment or appraisal."
+]
+],
+
+[
+"Useful Life", 
 [
 "Useful Life is the expected period of time during which an asset is useful to the average owner. The economic life of an asset could be different than its actual physical life.",
 "Useful Life is the time period over which the company expects that the asset will be productive. Past its useful life, it is no longer cost-effective to continue operating the asset, so it is expected that the company will dispose of it. Depreciation is recognized over the useful life of an asset."
